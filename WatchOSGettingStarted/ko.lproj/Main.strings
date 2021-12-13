@@ -1,0 +1,9 @@
+
+/* Class = "UILabel"; text = "Speech to Text output..."; ObjectID = "41G-vz-98D"; */
+"41G-vz-98D.text" = "Speech to Text output...";
+
+/* Class = "UILabel"; text = "Tap button to start voice recognition."; ObjectID = "eeB-qk-Sos"; */
+"eeB-qk-Sos.text" = "Tap button to start voice recognition.";
+
+/* Class = "UIButton"; normalTitle = "Start/Stop"; ObjectID = "tsR-NV-8IB"; */
+"tsR-NV-8IB.normalTitle" = "Start/Stop";

@@ -1,0 +1,15 @@
+
+/* Class = "WKInterfaceButton"; title = "Audio Recorder"; ObjectID = "Hv2-IG-d9O"; */
+"Hv2-IG-d9O.title" = "Audio Recorder";
+
+/* Class = "WKInterfaceLabel"; text = "Alert Label"; ObjectID = "IdU-wH-bcW"; */
+"IdU-wH-bcW.text" = "Alert Label";
+
+/* Class = "WKInterfaceLabel"; text = "Pete's Watch"; ObjectID = "lD6-2D-5zo"; */
+"lD6-2D-5zo.text" = "Pete's Watch";
+
+/* Class = "WKInterfaceButton"; title = "Dictation Input"; ObjectID = "oUz-Dt-rU1"; */
+"oUz-Dt-rU1.title" = "Dictation Input";
+
+/* Class = "WKInterfaceButton"; title = "PLAY"; ObjectID = "rFM-9r-HEe"; */
+"rFM-9r-HEe.title" = "PLAY";
